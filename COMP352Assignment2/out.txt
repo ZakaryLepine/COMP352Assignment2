@@ -1,0 +1,80 @@
+Array1 has elements: 4, 8, 5, 2, 3, 5, 1, 6, 4, 0, 
+(Recursion)Array1 has a solution with starting index 0: true
+(Stack)Array1 has a solution with starting index 0: true
+
+Array1 has elements: 4, 8, 5, 2, 3, 5, 1, 6, 4, 0, 
+(Recursion)Array1 has a solution with starting index 3: true
+(Stack)Array1 has a solution with starting index 3: true
+
+Array2 has elements: 5, 8, 2, 3, 1, 5, 0, 
+(Recursion)Array2 has a solution with starting index 0: false
+(Stack)Array2 has a solution with starting index 0: false
+
+Array2 has elements: 5, 8, 2, 3, 1, 5, 0, 
+(Recursion)Array2 has a solution with starting index 3: true
+(Stack)Array2 has a solution with starting index 3: true
+
+Array3 has elements: 2, 4, 2, 2, 2, 4, 4, 0, 
+(Recursion)Array3 has a solution with starting index 2: false
+(Stack)Array3 has a solution with starting index 2: false
+
+Array3 has elements: 2, 4, 2, 2, 2, 4, 4, 0, 
+(Recursion)Array3 has a solution with starting index 7: true
+(Stack)Array3 has a solution with starting index 7: true
+
+Array4 has elements: 10, 2, 6, 7, 3, 5, 6, 2, 4, 6, 1, 2, 4, 5, 6, 0, 
+(Recursion)Array4 has a solution with starting index 0: true
+(Stack)Array4 has a solution with starting index 0: true
+
+Array4 has elements: 10, 2, 6, 7, 3, 5, 6, 2, 4, 6, 1, 2, 4, 5, 6, 0, 
+(Recursion)Array4 has a solution with starting index 6: true
+(Stack)Array4 has a solution with starting index 6: true
+
+Array5 has elements: 4, 5, 6, 10, 1, 2, 3, 7, 8, 9, 0, 
+(Recursion)Array5 has a solution with starting index 8: false
+(Stack)Array5 has a solution with starting index 8: false
+
+Array5 has elements: 4, 5, 6, 10, 1, 2, 3, 7, 8, 9, 0, 
+(Recursion)Array5 has a solution with starting index 3: false
+(Stack)Array5 has a solution with starting index 3: false
+
+Array6 has elements: 9, 2, 6, 1, 3, 8, 5, 10, 7, 4, 6, 3, 2, 5, 4, 9, 7, 1, 8, 0, 
+(Recursion)Array6 has a solution with starting index 2: false
+(Stack)Array6 has a solution with starting index 2: false
+
+Array6 has elements: 9, 2, 6, 1, 3, 8, 5, 10, 7, 4, 6, 3, 2, 5, 4, 9, 7, 1, 8, 0, 
+(Recursion)Array6 has a solution with starting index 9: false
+(Stack)Array6 has a solution with starting index 9: false
+
+Array7 has elements: 9, 5, 4, 9, 6, 5, 6, 2, 9, 4, 5, 6, 2, 9, 0, 
+(Recursion)Array7 has a solution with starting index 11: false
+(Stack)Array7 has a solution with starting index 11: false
+
+Array7 has elements: 9, 5, 4, 9, 6, 5, 6, 2, 9, 4, 5, 6, 2, 9, 0, 
+(Recursion)Array7 has a solution with starting index 4: false
+(Stack)Array7 has a solution with starting index 4: false
+
+Array8 has elements: 3, 6, 8, 2, 2, 10, 6, 2, 7, 7, 3, 3, 9, 4, 3, 10, 3, 5, 10, 6, 3, 3, 9, 4, 3, 10, 3, 5, 10, 0, 
+(Recursion)Array8 has a solution with starting index 22: false
+(Stack)Array8 has a solution with starting index 22: false
+
+Array8 has elements: 3, 6, 8, 2, 2, 10, 6, 2, 7, 7, 3, 3, 9, 4, 3, 10, 3, 5, 10, 6, 3, 3, 9, 4, 3, 10, 3, 5, 10, 0, 
+(Recursion)Array8 has a solution with starting index 15: false
+(Stack)Array8 has a solution with starting index 15: false
+
+Array9 has elements: 2, 10, 1, 8, 5, 4, 6, 1, 7, 0, 
+(Recursion)Array9 has a solution with starting index 0: false
+(Stack)Array9 has a solution with starting index 0: false
+
+Array9 has elements: 2, 10, 1, 8, 5, 4, 6, 1, 7, 0, 
+(Recursion)Array9 has a solution with starting index 1: false
+(Stack)Array9 has a solution with starting index 1: false
+
+Array10 has elements: 8, 2, 3, 2, 5, 1, 4, 9, 9, 0, 
+(Recursion)Array10 has a solution with starting index 4: true
+(Stack)Array10 has a solution with starting index 4: true
+
+Array10 has elements: 8, 2, 3, 2, 5, 1, 4, 9, 9, 0, 
+(Recursion)Array10 has a solution with starting index 5: true
+(Stack)Array10 has a solution with starting index 5: true
+
